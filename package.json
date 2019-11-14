@@ -1,0 +1,8 @@
+{
+  "name": "GolfProjectNodeJS",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "firebase-admin": "^8.7.0"
+  }
+}
